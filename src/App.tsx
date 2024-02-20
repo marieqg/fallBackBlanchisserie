@@ -12,7 +12,7 @@ function App() {
             <p className='horaires'>Horaires d'ouverture :</p>
             <p>Lundi - Vendredi : 9h00 - 12h00 / 13h30 - 19h00</p>
             <p>Samedi - Dimanche : Fermé</p>
-            <p>Contactez nous par téléphone au <a href='tel:023520473'>03.23.52.04.74</a> ou par mail: <a href='mailto:ste.letang@wanadoo.fr'>ste.letang@wanadoo.fr</a></p>
+            <p>Contactez nous par téléphone au <a href='tel:0223520474'>03.23.52.04.74</a> ou par mail: <a href='mailto:ste.letang@wanadoo.fr'>ste.letang@wanadoo.fr</a></p>
         </div>
     </>
   )
