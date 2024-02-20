@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+h1 {
+  font-family: "Arial", sans-serif; 
+  color: #4CAF45; 
+}
+h2 {
+  color: #4CAF45; 
+}
+.horaires {
+  font-weight: bold; /* Met le texte en gras */
+  font-size: 1.2em; /* Taille de police supérieure */
+}
+p {
+  color: black
+}
